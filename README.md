@@ -27,7 +27,7 @@ Este projeto utiliza a API de Usuários do GitHub para buscar e exibir informaç
 ### Instalação
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/github-user-search.git
+   git clone https://github.com/mariacarolarm/Github-Finder
 
 2. Navegue até a pasta do projeto:
    ```bash
